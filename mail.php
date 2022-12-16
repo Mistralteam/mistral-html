@@ -18,7 +18,7 @@
 
         // Set the recipient email address.
         // Note:  Update this to your desired email address.
-        $recipient = "support@envato.com";
+        $recipient = "info@mistralteam.com";
 
         // Set the email subject.
         $subjectname = "New Contact $subject";
